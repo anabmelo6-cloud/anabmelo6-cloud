@@ -1,5 +1,7 @@
-## Hi there 👋
+## 👋 Olá, eu sou a Ana Beatriz 
 
+Me chamo Ana Beatriz, 17 anos, estudante de Desenvolvimento de Sistemas em Fortaleza - CE.
+Aqui você encontra meus projetos, estudos e experiências na área de tecnologia.
 <!--
 **anabmelo6-cloud/anabmelo6-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
